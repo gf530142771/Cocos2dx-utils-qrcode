@@ -1,1 +1,12 @@
-需要在Images.xcassets 创建这两个同名目录，放入相应图片即可
+1.需要在Images.xcassets 
+创建这两个同名目录，放入相应图片即可
+SGQRCodeFlashlightCloseImage.imageset
+SGQRCodeFlashlightOpenImage.imageset
+
+
+2.关于多语言支持，参考此网址 https://www.bolee.fun/xcode-project-support-international.html 
+目前二维码只支持中文 英文 ，添加多语言请自行添加
+English.lproj
+zh-Hans.lproj
+
+

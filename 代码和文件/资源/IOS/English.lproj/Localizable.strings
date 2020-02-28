@@ -1,0 +1,17 @@
+/* 
+  Localizable.strings
+  HelloQRCode
+
+  Created by gf on 2020/2/27.
+  
+*/
+"Sweep code" = "Sweep code";
+"Album" = "Album";
+"qrcode_handling" = "Processing...";
+"qrcode_error_notfind" = "QR code / barcode not found";
+"qrcode_tip_2" = "Put the QR code / barcode in the box,and it can be scanned automatically";
+
+"tip_open_camera" = "[go to: settings - Privacy - Camera -% @] allow app access";
+"error_notfind_camera" = "Your camera is not detected";
+"tip_title" = "Reminder";
+"btn_sure" = "Sure";

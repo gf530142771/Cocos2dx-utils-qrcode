@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">二维码扫描</string>
+    <!-- 二维码扫描相关 -->
+    <string name="SweepCode">扫一扫</string>
+    <string name="Album">相册</string>
+    <string name="selectQrcode">从相册选取二维码</string>
+    <!-- 二维码扫描相关 -->
+</resources>

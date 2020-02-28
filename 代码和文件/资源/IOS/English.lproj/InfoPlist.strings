@@ -1,0 +1,8 @@
+/* 
+  InfoPlist.strings
+  HelloQRCode
+
+  Created by gf on 2020/2/27.
+  
+*/
+"CFBundleDisplayName" = "qrcode";
